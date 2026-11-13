@@ -1,5 +1,5 @@
-// cutest-picture-01 entry (Node 22, standard library only). Its picture is entry.jpg beside this file: a cream kitten
-// in a strawberry hat hugging a sleepy duckling in a teacup, generated with HeyGen (GPT Image 2.6) and saved as a
+// cutest-picture-01 entry (Node 22, standard library only). Its picture is entry.jpg beside this file: a chubby cream
+// kitten in a lavender scarf hugging a sleeping baby bunny, generated with HeyGen (GPT Image 2.6) and saved as a
 // 1024x1024 JPEG (quality 99, no chroma subsampling) to fit the gate's 1 MiB cap. The program checks the file against
 // the gate's rules and writes it to /output/entry.png; the gate tells PNG from JPEG by its first bytes, so the name
 // stays entry.png. bunny.ts is this repository's earlier, code-drawn picture, kept but no longer written out.
