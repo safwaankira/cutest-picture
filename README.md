@@ -4,7 +4,9 @@
 [![rank](https://make.fun/badge/cutest-picture-01/safwaankira/cutest-picture/rank.svg)](https://make.fun/bounty/cutest-picture-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=cutest-picture-01)
 [![reward](https://make.fun/badge/cutest-picture-01/safwaankira/cutest-picture/reward.svg)](https://make.fun/bounty/cutest-picture-01?utm_source=github&utm_medium=readme&utm_campaign=cutest-picture-01)
 
-A chubby peach bunny with a floppy ear and a pink bow, cuddling a sleepy baby chick, drawn entirely in code: a small signed-distance-field renderer in plain Node 22 (no dependencies, no image files) shades every shape as a soft fluffy blob and writes the PNG itself.
+A cream kitten in a strawberry hat hugging a sleepy duckling in a teacup. The picture was generated with HeyGen (GPT Image 2.6) and is shipped in this repository as `entry.jpg` (1024x1024, re-encoded as a quality-99 JPEG to fit the contest's 1 MiB cap); `main.ts` checks it against the contest's limits and writes it out to `/output/entry.png`. It does not draw the picture itself.
+
+`bunny.ts` is this entry's earlier picture, a fluffy bunny cuddling a chick drawn entirely in code by a small dependency-free signed-distance-field renderer; it is kept for reference and no longer written out.
 
 ## Run it
 
